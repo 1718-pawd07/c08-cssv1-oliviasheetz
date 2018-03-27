@@ -1,0 +1,20 @@
+/*
+* Olivia Sheetz
+* 23 March 2018
+* Classwork - 08
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: #FFC4F3;
+	color: black;
+	font-family: times; 
+}
